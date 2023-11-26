@@ -15,7 +15,7 @@ Demonstrate an approach for monitoring the ecological health of bird populations
 
 ## Data
   Some data used for this project are not public, and as such cannot be included (such as IMBCR data). However, when available, links to data request forms will be given. 
-  Any public data used is provided here: https://www.pwrc.usgs.gov/BBS/PublicDataInterface/index.cfm?fuseaction=PublicDataInterface.viewPublic
+  Any public data used are provided here: https://www.pwrc.usgs.gov/BBS/PublicDataInterface/index.cfm?fuseaction=PublicDataInterface.viewPublic
 
   IMBCR data request: https://forms.monday.com/forms/80217ca03b7de4ed366dce0a608172d8?r=use1
   
