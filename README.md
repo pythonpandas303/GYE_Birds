@@ -1,4 +1,4 @@
-![falcon](https://github.com/pythonpandas303/GYE_Birds/assets/95242618/5f913d55-084e-455e-92d1-5bf7c7d3d87c){width=500 height=500}
+![falcon](https://github.com/pythonpandas303/GYE_Birds/assets/95242618/5f913d55-084e-455e-92d1-5bf7c7d3d87c){width=50% height=50%}
 Image credit: National Parks Service (American kestrel in Gardiner Basin; Jim Peaco; April 2014; Catalog #19296d; Original #IMG_7018)
 
 # Repository for Towards Assesing the Ecological Health of Birds in the Greater Yellowstone Ecosystem
