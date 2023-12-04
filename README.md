@@ -1,4 +1,4 @@
-<img src="https://github.com/pythonpandas303/GYE_Birds/assets/95242618/5f913d55-084e-455e-92d1-5bf7c7d3d87c" width="700" height="700" align="center">
+<img align="center" src="https://github.com/pythonpandas303/GYE_Birds/assets/95242618/5f913d55-084e-455e-92d1-5bf7c7d3d87c" width="700" height="700">
 
 Image credit: National Parks Service (American kestrel in Gardiner Basin; Jim Peaco; April 2014; Catalog #19296d; Original #IMG_7018)
 
