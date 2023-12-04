@@ -1,8 +1,7 @@
-# GYE_Birds
 ![falcon](https://github.com/pythonpandas303/GYE_Birds/assets/95242618/5f913d55-084e-455e-92d1-5bf7c7d3d87c)
 Image credit: National Parks Service (American kestrel in Gardiner Basin; Jim Peaco; April 2014; Catalog #19296d; Original #IMG_7018)
 
-Repository for Towards Assesing the Ecological Health of Birds in the Greater Yellowstone Ecosystem
+# Repository for Towards Assesing the Ecological Health of Birds in the Greater Yellowstone Ecosystem
 
 This project is being performed as part of a Research Assistantship in conjunction with Montana State University. The products in this repository represent only the MSU contributions and are meant to provide Git functionality to those working on this project with Montana State University. This repository is not intended to provide support, methodology, or documentation to any other agency, institution, or individual. 
 If you stumble across this repository, and would like to use any of the tools herein, feel free. However, this repository is not affiliated with any other entity. 
