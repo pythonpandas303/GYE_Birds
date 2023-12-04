@@ -1,7 +1,8 @@
 # GYE_Birds
 Repository for Towards Assesing the Ecological Health of Birds in the Greater Yellowstone Ecosystem
 
-This project is being performed as part of a Research Assistantship in conjunction with Montana State University and the Greater Yellowstone Coordinating Committee.
+This project is being performed as part of a Research Assistantship in conjunction with Montana State University. The products in this repository represent only the MSU contributions and are meant to provide Git functionality to those working on this project with Montana State University. This repository is not intended to provide support, methodology, or documentation to any other agency, institution, or individual. 
+If you stumble across this repository, and would like to use any of the tools herein, feel free. However, this repository is not affiliated with any other entity. 
 
 ## Goal
 Demonstrate an approach for monitoring the ecological health of bird populations and communities across federal lands of the Greater Yellowstone Ecosystem (GYE).
@@ -10,7 +11,6 @@ Demonstrate an approach for monitoring the ecological health of bird populations
  * Compile data from the USFWS Breeding Bird Survey and the USFS Integrated Monitoring in Bird Conservation Regions programs
  * Select bird species for which these data sets allow rigorous statistical modeling of population trends
  * Use species distribution modeling techniques to develop spatially explicit models of bird abundance as a function of biophysical and human pressure factors for the period of 1990-2024
- * Use the models to project bird abundances under alternative future climate and land use scenarios
  * Use statistical techniques to evaluate trend past to present and into the future and compile the results into a color-coded report card for communication with diverse stakeholders.
 
 ## Data
