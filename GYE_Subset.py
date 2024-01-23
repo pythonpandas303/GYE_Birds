@@ -15,3 +15,5 @@ locs = locs.drop('CountryNum', axis=1)
 GreaterYellowstone = pd.merge(GreaterYellowstone, locs, on=['StateNum','Route'])
 
 GreaterYellowstone.to_csv('GYE.csv')
+
+# This file is now ready for geoprocessing to clip to extent of GYE
