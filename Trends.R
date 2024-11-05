@@ -5,9 +5,9 @@ library(ggplot2)
 
 fetch_bbs_data()
 
-setwd('C:\\Users\\megal\\Desktop\\Trends') 
+setwd('Your_File_Path') 
 
-# Read the shapefile
+
 map <- sf::read_sf('./GIS/GYE_Buffer_Bayes2.shp')
 map$STRAT <- c(1,1)
 map <- rename(map, strata_name = layer)
